@@ -1,0 +1,17 @@
+{
+  "name": "test1graphql",
+  "version": "0.0.1",
+  "description": "a test to run graphql api's",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajneeshksharma@github.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  }
+}

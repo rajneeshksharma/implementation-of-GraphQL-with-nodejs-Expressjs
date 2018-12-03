@@ -4,7 +4,7 @@
   "description": "a test to run graphql api's",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index2.js",
+    "start": "node index2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rajneeshksharma@github.com",
